@@ -1,0 +1,8 @@
+theme: jekyll-theme-cayman
+title: Music Recognizer for Mac
+description: A simple app that can recognize & tag thousands of songs in minutes.
+show_downloads: true
+github:
+  home_url: /
+  documentation_url: /documentation.html#start
+  download_url: http://www.apple.com
